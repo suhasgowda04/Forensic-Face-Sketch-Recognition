@@ -1,0 +1,27 @@
+# Compiled Java files
+*.class
+
+# NetBeans build folders
+build/
+dist/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Temporary files
+*.tmp
+*.bak
+
+# GitHub Desktop
+.github/
